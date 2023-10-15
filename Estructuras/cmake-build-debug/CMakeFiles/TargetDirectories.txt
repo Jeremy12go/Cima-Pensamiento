@@ -1,0 +1,3 @@
+C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Estructuras/cmake-build-debug/CMakeFiles/Estructuras.dir
+C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Estructuras/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Estructuras/cmake-build-debug/CMakeFiles/rebuild_cache.dir
