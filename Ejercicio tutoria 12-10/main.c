@@ -15,16 +15,6 @@ void imprimir_arreglo(int *arr, int largo){
     printf("\n");
 }
 
-
-
-
-
-
-
-
-
-
-
 void annadir(int *arr, int *largo, int v_ingresado){
     int aux_1, aux_2;
 
