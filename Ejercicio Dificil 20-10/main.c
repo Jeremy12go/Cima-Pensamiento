@@ -85,20 +85,20 @@ Compra in_compra(Fecha fecha, Producto *producto, int *registro, int cantidad_pr
     compra->peso_total = p_max(*compra,cantidad_productos);
     compra->valor_total = v_max(*compra,cantidad_productos);
 
-    *(registro)++;
+    (*registro)++;
     return *compra;
 }
 
-void print_compra(Compra compra, int *registro, int cantidad_productos){
+void print_compra(Compra compra, int registro){
 
-    printf("Compra: #%i\n",*registro);
+    printf("Compra: #%i\n",registro);
     print_fecha(*compra.fecha);
 
-    for(int i = 0; i < cantidad_productos; i++){
+    int i = 0;
+    while (compra.Producto != NULL){
         print_producto(compra.Producto[i]);
-        if(i<cantidad_productos-1){
-            printf("---------------------------------\n");
-        }
+        printf("---------------------------------\n");
+        i++;
     }
     printf("Precio total:%d\n",compra.valor_total);
     printf("Peso total:%d\n",compra.peso_total);
@@ -131,14 +131,87 @@ Producto* asignacion_v_Productos(int n){
 Compra* asignacion_v_Compras(int n, Fecha *fechas, Producto* productos, int *registro_compras){
     Compra *compras = (Compra*)malloc(n*sizeof(Compra)); //Cola de 12 elementos
 
-    compras[0] = in_compra(fechas[0],productos,registro_compras,3);
-
+    compras[0] = in_compra(fechas[0],productos,registro_compras,1);
+    compras[1] = in_compra(fechas[1],productos,registro_compras,2);
+    compras[2] = in_compra(fechas[2],productos,registro_compras,3);
     return compras;
+}
+
+void annadir(Compra *arr, int *largo, Compra *c_ingresada){
+    Compra *aux_1 = (Compra*)malloc(sizeof(Compra));
+    Producto *producto = (Producto*)malloc(sizeof(Producto));
+    Fecha *fecha = (Fecha*) malloc(sizeof (Fecha));
+    aux_1->Producto = producto;
+    aux_1->fecha = fecha;
+    Compra *aux_2 = aux_1;
+    aux_2->Producto = producto;
+    aux_2->fecha = fecha;
+
+    for (int i = 0; i < (*largo+1); ++i) {
+        if(i==0){
+            //guardar los valores de arr[i] en un aux
+            aux_1->fecha = (arr+i)->fecha;
+            aux_1->Producto->precio = (arr+i)->Producto->precio;
+            aux_1->Producto->peso = (arr+i)->Producto->peso;
+            aux_1->Producto->nombre = (arr+i)->Producto->nombre;
+            aux_1->Producto->codigo = (arr+i)->Producto->codigo;
+            aux_1->peso_total = (arr+i)->peso_total;
+            aux_1->valor_total = (arr+i)->valor_total;
+
+            //reemplazar el nuevo valor en arr[i]
+            arr->fecha = c_ingresada->fecha;
+            arr->Producto->precio = c_ingresada->Producto->precio;
+            arr->Producto->peso = c_ingresada->Producto->peso;
+            arr->Producto->nombre = c_ingresada->Producto->nombre;
+            arr->Producto->codigo = c_ingresada->Producto->codigo;
+            arr->peso_total = c_ingresada->peso_total;
+            arr->valor_total = c_ingresada->valor_total;
+        }else{
+            //guardar el siguiente valor en un aux
+            aux_2->fecha = (arr+i)->fecha;
+            aux_2->Producto->precio = (arr+i)->Producto->precio;
+            aux_2->Producto->peso = (arr+i)->Producto->peso;
+            aux_2->Producto->nombre = (arr+i)->Producto->nombre;
+            aux_2->Producto->codigo = (arr+i)->Producto->codigo;
+            aux_2->peso_total = (arr+i)->peso_total;
+            aux_2->valor_total = (arr+i)->valor_total;
+
+            //reemplar el valor anterios
+            (arr+i)->fecha = aux_1->fecha;
+            (arr+i)->Producto->precio = aux_1->Producto->precio;
+            (arr+i)->Producto->peso = aux_1->Producto->peso;
+            (arr+i)->Producto->nombre = aux_1->Producto->nombre;
+            (arr+i)->Producto->codigo = aux_1->Producto->codigo;
+            (arr+i)->peso_total = aux_1->peso_total;
+            (arr+i)->valor_total = aux_1->valor_total;
+
+            //guardar la siguiente compra a ingresar
+            aux_1->fecha = aux_2->fecha;
+            aux_1->Producto->precio = aux_2->Producto->precio;
+            aux_1->Producto->peso = aux_2->Producto->peso;
+            aux_1->Producto->nombre = aux_2->Producto->nombre;
+            aux_1->Producto->codigo = aux_2->Producto->codigo;
+            aux_1->peso_total = aux_2->peso_total;
+            aux_1->valor_total = aux_2->valor_total;
+            aux_1 = aux_2;
+        }
+    }
+    (*largo)++;
+}
+
+void eliminar(int *largo){
+    (*largo)--;
+}
+
+void imprimir_cola_compras(Compra *compras, int  cantidad_compras){
+    for(int i = 1; i <= cantidad_compras; i++){
+        print_compra(*(compras+i-1),i);
+    }
 }
 
 int main() {
     //todo:---------------------Variables de registro-----------------------------
-    int registro_compras = 1;
+    int registro_compras = 0;
     int *p_Rcompras = &registro_compras;
     int cantidad_compras = 12;
 
@@ -151,7 +224,12 @@ int main() {
 
     //todo:---------------------------Compras-----------------------------------
     Compra *compras = asignacion_v_Compras(cantidad_compras,fechas,productos,p_Rcompras);
-    print_compra(*(compras+0),p_Rcompras,3);
+    imprimir_cola_compras(compras,2);
+
+
+
+
+
 
     return 0;
 }
