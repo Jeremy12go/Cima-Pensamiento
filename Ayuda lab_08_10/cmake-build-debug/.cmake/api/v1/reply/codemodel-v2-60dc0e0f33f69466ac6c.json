@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ayuda_lab_08_10",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ayuda_lab_08_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ayuda_lab_08_10-Debug-28384753f744753b75fa.json",
+					"name" : "Ayuda_lab_08_10",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Ayuda lab_08_10/cmake-build-debug",
+		"source" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Ayuda lab_08_10"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

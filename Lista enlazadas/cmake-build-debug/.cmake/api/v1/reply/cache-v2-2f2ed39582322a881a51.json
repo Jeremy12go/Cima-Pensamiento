@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/tutoria 03-11/cmake-build-debug"
+			"value" : "c:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/Estructura/Ejercicio08/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/tutoria 03-11/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/Estructura/Ejercicio08/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/tutoria 03-11"
+			"value" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/Estructura/Ejercicio08"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/tutoria_03_11"
+			"value" : "C:/Program Files (x86)/Ejercicio08"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "tutoria_03_11"
+			"value" : "Ejercicio08"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1110,19 +1110,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "linker supports push/pop state"
-				}
-			],
-			"type" : "INTERNAL",
-			"value" : "TRUE"
-		},
-		{
-			"name" : "tutoria_03_11_BINARY_DIR",
+			"name" : "Ejercicio08_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1131,10 +1119,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/tutoria 03-11/cmake-build-debug"
+			"value" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/Estructura/Ejercicio08/cmake-build-debug"
 		},
 		{
-			"name" : "tutoria_03_11_IS_TOP_LEVEL",
+			"name" : "Ejercicio08_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1146,7 +1134,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "tutoria_03_11_SOURCE_DIR",
+			"name" : "Ejercicio08_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1155,7 +1143,19 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/tutoria 03-11"
+			"value" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/Estructura/Ejercicio08"
+		},
+		{
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
 		}
 	],
 	"kind" : "cache",

@@ -1,0 +1,3 @@
+Nombre:Juan Apellido:Perez Numero:+56912122412 Correo:quweidja@mgial.com
+Nombre:Agustin Apellido:Becerra Numero:+56912121231 Correo:quweidja@mgial.com
+Nombre:Tomas Apellido:Corabalan Numero:+56912990012 Correo:quweidja@mgial.com

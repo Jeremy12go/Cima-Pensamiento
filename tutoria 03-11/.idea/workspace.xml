@@ -19,83 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5dbafd5-f20b-4472-80fd-2ae72ae8f836" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos_Matrices/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/.cmake/api/v1/reply/cache-v2-5a29c34ea836f21bccb8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c551413c6a7b361e25c2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-24T04-45-04-0757.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a6d0f33808cbb6cf8490.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Arreglos_Matrices/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio Dificil 20-10/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio Dificil 20-10/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio Dificil 20-10/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio Dificil 20-10/main.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/.cmake/api/v1/reply/cache-v2-0c9654ca258c31162b19.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-3dcf09d8a684068bf5f4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-12T17-46-06-0727.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-a6d0f33808cbb6cf8490.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/Ejercicio_tutoria_12_10.dir/main.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio tutoria 12-10/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/.idea/Ejercicio tutoria 18-19.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/.cmake/api/v1/reply/cache-v2-6ec0ed68ec5bf575bdef.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-02b2e03ac1b7675e0227.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-be1c2f2827c16dbf48b4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-18T23-37-12-0025.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/.cmake/api/v1/reply/target-Ejercicio_tutoria_18_19-Debug-661005abf50b38d10d89.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-4f3f9a7cf5be75e2ff5d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/.ninja_deps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/.ninja_log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeFiles/Ejercicio_tutoria_18_19.dir/main.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/Ejercicio_tutoria_18_19.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ejercicio tutoria 18-19/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,13 +66,6 @@
       <recent name="C:\Users\jerem\OneDrive\Documents\Cosas\Scripts C\Repo\CIMA\tutoria 03-11" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -161,6 +78,7 @@
       <workItem from="1699448166685" duration="1689000" />
       <workItem from="1699450446718" duration="3195000" />
       <workItem from="1699459877798" duration="1839000" />
+      <workItem from="1699462769723" duration="13000" />
     </task>
     <servers />
   </component>

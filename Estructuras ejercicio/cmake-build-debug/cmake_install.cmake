@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/tutoria 03-11
+# Install script for directory: C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Estructuras ejercicio
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/tutoria 03-11/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Estructuras ejercicio/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
