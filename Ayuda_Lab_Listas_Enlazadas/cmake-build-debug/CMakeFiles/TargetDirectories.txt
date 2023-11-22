@@ -1,0 +1,3 @@
+C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Ayuda_Lab_Listas_Enlazadas/cmake-build-debug/CMakeFiles/Ayuda_Lab_Listas_Enlazadas.dir
+C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Ayuda_Lab_Listas_Enlazadas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Ayuda_Lab_Listas_Enlazadas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
