@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/Estructura/Ejercicio08/cmake-build-debug",
-		"source" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/Estructura/Ejercicio08"
+		"build" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Lista enlazadas/cmake-build-debug",
+		"source" : "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Lista enlazadas"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 6
 	}
 }

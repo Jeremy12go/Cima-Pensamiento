@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/Estructura/Ejercicio08
+# Install script for directory: C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Lista enlazadas
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/jerem/AppData/Local/Programs/CLion/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/jerem/AppData/Local/Programs/CLion Nova/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/Estructura/Ejercicio08/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/jerem/OneDrive/Documents/Cosas/Scripts C/Repo/CIMA/Lista enlazadas/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
